@@ -1,0 +1,33 @@
+{
+  "name": "react-redux-todo",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.5",
+    "react-router": "^4.1.2",
+    "react-router-redux": "^4.0.8",
+    "react-scripts": "1.0.10",
+    "redux": "^3.7.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "description": "React — A JS library that helps us to divide up our app into multiple components but doesn’t clearly specify how to keep track of the data(aka State) and how to deal with all the events(aka Actions) properly. Redux — A complimentary library to React that provides a way to easily keep the data(State) and the events(Actions).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeShaurya/React-Redux.git"
+  },
+  "author": "Shubham Maurya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeShaurya/React-Redux/issues"
+  },
+  "homepage": "https://github.com/codeShaurya/React-Redux#readme"
+}
